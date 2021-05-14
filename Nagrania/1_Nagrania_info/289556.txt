@@ -1,0 +1,3 @@
+Urządzenie nagrywające: telefon Huawei Psmart 2019, system Android 10
+Aplikacja nagrywająca: "Smart Recorder - High-quality voice recorder"
+Częstotliwość próbkowania: 44,1 kHz

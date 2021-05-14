@@ -1,0 +1,4 @@
+Słowa nagrywane za pomocą dyktafonu w Samsung J5.
+Pliki miały rozszerzenie m4a, więc konwertowałam je do wav przy użyciu konwetera online.
+Pliki wav mają częstotliwość 44,1 kHz.
+Etykiety dodane za pomocą programu Audacity.
