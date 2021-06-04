@@ -1,0 +1,3 @@
+Słowa nagrywane za pomocą aplikacji Dyktafon w telefonie Xiaomi Redmi Note 7.
+Pliki miały rozszerzenie wav i częstotliwość 44,1 kHz.
+Etykiety zostały dodane za pomocą programu Audacity.
